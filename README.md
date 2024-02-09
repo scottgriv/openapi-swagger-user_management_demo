@@ -41,6 +41,20 @@ Key aspects include:
 
 This demo project illustrates the power of combining Swagger UI and OAS to create well-documented, easily navigable, and developer-friendly API documentation.
 
+<div align="center">
+    <a href="https://petstore.swagger.io/"><img src="./docs/images/demo_2.png" width="50%" /></a>
+    <br>
+    <i>My demo YAML file in Swagger UI</i>
+</div>
+<br>
+
+<div align="center">
+    <a href="https://petstore.swagger.io/"><img src="./docs/images/demo_3.png" width="50%" /></a>
+    <br>
+    <i>Swagger UI's more robust demo</i>
+</div>
+<br>
+
 ---------------
 
 ## Table of Contents
@@ -52,7 +66,8 @@ This demo project illustrates the power of combining Swagger UI and OAS to creat
 
 ## Getting Started
 
-- View the GitHub Pages example [Here]().
+- Copy the `user-management-api.yaml` file into [Swagger Editor](https://editor.swagger.io/) to view the Swagger UI documentation.
+- To run on local, I copied the `dist` folder from the [Swagger UI Repository](https://github.com/swagger-api/swagger-ui/tree/master), and adjusted the `swagger-initilizer.js` file to point to my `user-management-api.yaml` file (Requires disabling CORS policy for your browser).
 - Consult the resources section below for more information on Swagger and OAS for APIs.
 
 ## Resources
