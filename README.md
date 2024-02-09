@@ -32,6 +32,9 @@ This demo project showcases the implementation of a User Management API document
 
 Swagger UI provides a dynamic interface for visualizing and interacting with the API's capabilities, such as user creation, listing, and retrieval, without writing code. The use of OAS ensures that the API design is standardized, making it clear and understandable, which facilitates efficient integration and enhances developer experience.
 
+> [!NOTE]
+> *You can build OAS files in either YAML or JSON then use Swagger UI to view the specifications.*
+
 Key aspects include:
 
 - **Interactive Documentation:** Swagger UI offers an engaging way to understand and test the API.
