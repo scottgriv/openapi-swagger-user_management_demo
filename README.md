@@ -42,14 +42,14 @@ Key aspects include:
 This demo project illustrates the power of combining Swagger UI and OAS to create well-documented, easily navigable, and developer-friendly API documentation.
 
 <div align="center">
-    <a href="https://petstore.swagger.io/"><img src="./docs/images/demo_2.png" width="50%" /></a>
+    <a href="https://petstore.swagger.io/"><img src="./docs/images/demo_2.png" width="75%" /></a>
     <br>
     <i>My demo YAML file in Swagger UI</i>
 </div>
 <br>
 
 <div align="center">
-    <a href="https://petstore.swagger.io/"><img src="./docs/images/demo_3.png" width="50%" /></a>
+    <a href="https://petstore.swagger.io/"><img src="./docs/images/demo_3.png" width="75%" /></a>
     <br>
     <i>Swagger UI's more robust demo</i>
 </div>
