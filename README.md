@@ -1,13 +1,9 @@
 <!-- Begin README -->
 
 <div align="center">
-    <a href="https://github.com/scottgriv/swagger-openapi-user_management_demo" target="_blank">
-        <img src="./docs/images/icon.png" width="150" height="150"/>
-    </a>
+    <a href="https://github.com/scottgriv/swagger-openapi-user_management_demo" target="_blank"><img src="./docs/images/icon.png" width="150" height="150"/></a>
     &nbsp;
-    <a href="https://github.com/scottgriv/swagger-openapi-user_management_demo" target="_blank">
-        <img src="./docs/images/icon_2.png" width="150" height="150"/>
-    </a>
+    <a href="https://github.com/scottgriv/swagger-openapi-user_management_demo" target="_blank"><img src="./docs/images/icon_2.png" width="150" height="150"/></a>
 </div>
 <br>
 <p align="center">
