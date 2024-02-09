@@ -13,8 +13,8 @@ This file is used to connect this repository to the **PRG** project categorizati
 ## Project Information
 
 **Repository Tier:** Bronze <br>
-**Technology:** Swagger UI, YAML, JSON, HTML<br>
-**Category:** API, The OpenAPI Specification (OAS) <br>
+**Technology:** API, YAML, JSON, HTML<br>
+**Category:** Swagger UI, The OpenAPI Specification (OAS) <br>
 **Order:** 0 <br>
 
 ## Parameters

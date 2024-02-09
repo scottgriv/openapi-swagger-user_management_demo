@@ -1,8 +1,12 @@
 <!-- Begin README -->
 
 <div align="center">
-    <a href="https://github.com/scottgriv/openapi-swagger-user_management_demo" target="_blank">
+    <a href="https://github.com/scottgriv/swagger-openapi-user_management_demo" target="_blank">
         <img src="./docs/images/icon.png" width="150" height="150"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/scottgriv/swagger-openapi-user_management_demo" target="_blank">
+        <img src="./docs/images/icon_2.png" width="150" height="150"/>
     </a>
 </div>
 <br>
@@ -19,7 +23,14 @@
 
 ---------------
 
-<h1 align="center">OpenAPI Specification + Swagger UI - User Management Demo</h1>
+<h1 align="center">Swagger UI + OpenAPI Specification <br> User Management Demo</h1>
+
+<div align="center">
+    <a href="swagger-openapi-user_management_demo"><img src="./docs/images/demo_1.png" width="25%" /></a>
+    <br>
+    <i>Harnessing the power of Swagger & OAS</i>
+</div>
+<br>
 
 This demo project showcases the implementation of a User Management API documented with Swagger UI and defined using the OpenAPI Specification (OAS). It demonstrates the creation of interactive API documentation that allows for easy exploration and testing of API endpoints directly through the browser.
 
@@ -78,7 +89,7 @@ This project is released under the terms of **The Unlicense**, which allows you 
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
 **Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
 **Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/openapi-swagger-user_management_demo) <br>
+**Reference:** [Main Branch](https://github.com/scottgriv/swagger-openapi-user_management_demo) <br>
 
 ---------------
 
