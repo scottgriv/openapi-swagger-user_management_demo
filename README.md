@@ -79,11 +79,15 @@ This demo project illustrates the power of combining Swagger UI and OAS to creat
 - [OpenAPI Initiative](https://www.openapis.org/)
 - [Swagger OpenAPI Specification](https://swagger.io/specification/)
 - [Swagger](https://swagger.io/)
+- [SwaggerHub](https://swagger.io/tools/swaggerhub/)
+- [SwaggerHub Explore](https://swagger.io/tools/swaggerhub-explore/)
+- [Swagger Inspector (Sunset)](https://swagger.io/blog/swagger-inspector-sunset/)
 - [Swagger Editor](https://editor.swagger.io/)
 - [Swagger Next Editor](https://editor-next.swagger.io/)
 - [Swagger UI Download](https://swagger.io/tools/swagger-ui/download/)
 - [Swagger UI Repository](https://github.com/swagger-api/swagger-ui/tree/master)
 - [Swagger UI Official Demo](https://petstore.swagger.io/)
+- [JSON Web Tokens (JWT)](https://jwt.io/)
 
 **OAS/Swagger Alternatives:**
 - [DapperDox](http://dapperdox.io/)
